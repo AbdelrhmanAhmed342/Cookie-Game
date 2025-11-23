@@ -62,8 +62,11 @@ Just run all cells — everything works out of the box.
 ## Author
 
 **Abdelrhman Ahmed**  
+**Abdelrhman Ahmed**  
 GitHub: [@AbdelrhmanAhmed342](https://github.com/AbdelrhmanAhmed342)  
-https://www.linkedin.com/in/abdelrahman-ahmed-220873342/
+LinkedIn: [linkedin.com/in/abdelrhman-ahmed-342](https://www.linkedin.com/in/abdelrhman-ahmed-342)  
+Portfolio: [abdelrhmanahmed342.github.io]([https://abdelrhmanahmed342.github.io](https://abdelrhmanahmed342.github.io/Abdelrahman_Portfolio/))  
+Email: abdo.elgoneeemy@gmail.com
 
 Built with passion for data science. Star if you like it!
 
